@@ -8,7 +8,7 @@ The algorithm requires a linear(n)*poly(d) space and the expected algorithms com
 * insertion of one element into the structure ~log(n)* d^1.7 (  log(n)*poly(d)  );
 * approximate nearest neighbor search ~log(n)* d^1.7;
 * approximate k-nearest neighbor search ~k*log(n) * d^1.7;
-* deletion – not described yet, but supposedly complexity will be ~log(n) and poly(d).
+* deletion ï¿½ not described yet, but supposedly complexity will be ~log(n) and poly(d).
 
 MSW has topology of the network constructed in such way, that starting from any node of the network, one can efficiently find any other node 
 without the entire knowledge of network topology.
@@ -38,12 +38,14 @@ This library can be used to compare MSW algorithms with many others.
 ## What Should I Do to Run Example?
 
 ### Compile Source Code
-You can use apache ant http://ant.apache.org/ and type “ant” from the common line in the folder where “build.xml” file is located. 
-Or you can open and compile project with [NetBeans](http://netbeans.org)
+
+``` gradle build ```
 
 ### Run Example
-Run testTrec3.bat at the Windows or testTrec3.sh at the Linux machine.
-The list of parameters used in the example class “SearchAttemptsTestTrec3”:
+
+``` gradle test ```
+
+### Some parameters:
 
 1. (NN) The number of nearest neighbors used in construction algorithm to approximate Voronoi neighbors
 2. (K) number of k-closest elements for the k-nn search
@@ -53,7 +55,7 @@ The list of parameters used in the example class “SearchAttemptsTestTrec3”:
 6. (dataBaseSize) - the restriction of number elements in the data structure. To remove the restriction, set the value to 0.
 7. (querySetSize) - the restriction on the number of all possible queries. Set to 0 for unlimited number of queries.
 8. (testSeqSize) - the number elements in a randomly selected subset used to verify accuracy of the search. 
-9. (dataPath) – the path to the directory containing the set frequency term vectors extracted from the set of documents.
-10. (queryPath) – the path to the set of frequency term vectors used as a set of all possible queries.
+9. (dataPath) ï¿½ the path to the directory containing the set frequency term vectors extracted from the set of documents.
+10. (queryPath) ï¿½ the path to the set of frequency term vectors used as a set of all possible queries.
 
 Note that the example uses the Trec-3 data set as the part of [Metric Space Library](http://sisap.org/Metric_Space_Library.html)

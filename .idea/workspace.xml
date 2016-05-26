@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08f51024-597e-45b4-aadb-19425548e9ff" name="Default" comment="" />
+    <list default="true" id="08f51024-597e-45b4-aadb-19425548e9ff" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/colt-1.2.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manifest.mf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/AbstractMetricStructure.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/AlgorithmLib.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/EnterPointProvider.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/EvaluatedElement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/MaskValidator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/MetricElement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/MetricElementFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/MetrizedSmallWord_Old.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/MetrizedSmallWorld.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/MetrizedSmallWorld_PowerLaw.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/PowerLawTestTrec3.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/SearchAttemptsTestTrec3.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/SearchResult.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/SelfAdapted/ConnectAllNeigbors.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/SelfAdapted/Ranger.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/SelfAdapted/RecursiveUpdateNeighbors.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/SelfAdapted/Repair02.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/SelfAdapted/SelfAdaptedMetrizedSmallWorld.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/TestLib.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/TestResult.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/documents/Document.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/documents/DocumentFileFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/euclidian/Euclidean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/euclidian/EuclidianFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/evaluation/DimensionalityTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/evaluation/EuclidianAggregationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/evaluation/RandomGeneratorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/evaluation/ReparingByQueriesTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/evaluation/SelfAdaptedMSWDimensionalityTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/evaluation/SingleAttributeDistributionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/evaluation/SingleAttributeLoadVsDegree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/evaluation/SingleAttributeNNTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/evaluation/StabilityTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/evaluation/WikiSparseAggregationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/evaluation/WikiSparseTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/integervector/IntegerVector.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/integervector/IntegerVectorFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/singleAttribute/SingleAttributeElement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/singleAttribute/SingleAttributeElementFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/singleAttribute/SingleAttributeMetrizedSmallWorld.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/wikisparse/WikiSparse.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/msw/wikisparse/WikiSparseFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/realNetworkModelling/Model1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/latna/realNetworkModelling/PowerLawTestEuclidian.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testTrec3.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testTrec3.sh" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="MetrizedSmallWorld.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,6 +111,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -353,7 +408,7 @@
     <option name="width" value="1370" />
     <option name="height" value="721" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -395,6 +450,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="MetrizedSmallWorld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MetrizedSmallWorld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MetrizedSmallWorld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -901,6 +970,9 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="08f51024-597e-45b4-aadb-19425548e9ff" name="Default" comment="" />
@@ -952,6 +1024,14 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
